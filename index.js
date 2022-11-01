@@ -14,3 +14,5 @@ document.getElementById("play-pause-button").onclick = function () {
         $("#play-pause-button").addClass('fa-play');
    };
 }
+
+
